@@ -5,6 +5,7 @@ PyPing allows for email notifications to alert you when monitored websites are o
 <br>
 # DISCLAIMER:
 PyPing will only work on LINUX systems!
+<br>
 # Features:
 1. Email notifications with statistics.<br>
 2. Custom ping intervals (how often the DOMAIN / IP should be pinged.<br>
